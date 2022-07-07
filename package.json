@@ -17,7 +17,7 @@
     "canvas": "^2.6.1",
     "easy-peasy": "^3.2.6",
     "jsbarcode": "^3.11.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-camera": "^3.16.0",
